@@ -12,7 +12,7 @@ The Team:
     
     Bill Newman
 
-A full description of the project along with project development documentation may be found in this Git Hub Respository's Wiki: <../wiki>
+A full description of the project along with project development documentation may be found in this Git Hub Respository's Wiki: <http://../wiki>
 
 Instructions for contributing to this project may be found in the CONTRIBUTING.md file.
 
