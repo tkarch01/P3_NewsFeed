@@ -15,3 +15,5 @@ The Team:
 A full description of the project along with project development documentation may be found in this Git Hub Respository's Wiki.
 
 Instructions for contributing to this project may be found in the CONTRIBUTING.md file.
+
+The currently deployed version (ready or not) of this project may be found at <http://tianagreisel.com/wn16/news/p3_subcategory_view.php?id=1>
